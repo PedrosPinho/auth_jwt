@@ -1,0 +1,3 @@
+.theia
+controllers/__pycache/**
+routes/__pycache__/**
